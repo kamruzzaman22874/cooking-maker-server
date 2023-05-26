@@ -1,0 +1,375 @@
+[
+  {
+    "id": 1,
+    "chef_id":101,
+    "recipeName": "Classic Spaghetti Bolognese",
+    "recipeImg": "https://i.ibb.co/9n935YC/eaters-collective-uh-Jfa-J6c9f-Y-unsplash.jpg",
+    "ingredients": [
+      "500g spaghetti",
+      "1kg beef mince",
+      "1 onion, finely chopped",
+      "2 cloves garlic, minced",
+      "2 cans chopped tomatoes",
+      "1 tbsp tomato paste",
+      "1 tsp dried oregano",
+      "1/2 tsp dried thyme",
+      "1/2 tsp salt",
+      "1/4 tsp black pepper"
+    ],
+    "method": "1. Cook spaghetti according to package directions.\n2. Brown beef in a large pan over medium-high heat. Add onion and garlic and cook until softened.\n3. Add chopped tomatoes, tomato paste, oregano, thyme, salt, and pepper. Simmer for 10 minutes.\n4. Serve sauce over spaghetti.",
+    "rating": 4.5
+  },
+  {
+    "id": 2,
+    "chef_id":101,
+    "recipeName": "Honey Mustard Chicken",
+    "recipeImg": "https://i.ibb.co/9gDvzdw/anh-nguyen-kc-A-c3f-3-FE-unsplash-1.jpg",
+    "ingredients": [
+      "4 boneless, skinless chicken breasts",
+      "2 tbsp honey",
+      "2 tbsp Dijon mustard",
+      "1 tbsp olive oil",
+      "1 tbsp chopped fresh rosemary",
+      "1/2 tsp salt",
+      "1/4 tsp black pepper"
+    ],
+    "method": "1. Preheat oven to 200°C.\n2. Mix honey, mustard, olive oil, rosemary, salt, and pepper together in a small bowl.\n3. Place chicken in a baking dish and brush with the honey mustard mixture.\n4. Bake for 20-25 minutes, or until chicken is cooked through.\n5. Serve with your favourite sides.",
+    "rating": 4.2
+  },
+  {
+    "id": 3,
+    "chef_id":101,
+    "recipeName": "Vegetarian Chili",
+    "recipeImg": "https://i.ibb.co/Vp9HpHj/victoria-shes-UC0-HZd-Uit-WY-unsplash.jpg",
+    "ingredients": [
+      "2 tbsp olive oil",
+      "1 onion, diced",
+      "2 cloves garlic, minced",
+      "1 red bell pepper, diced",
+      "1 green bell pepper, diced",
+      "1 zucchini, diced",
+      "1 can kidney beans, drained and rinsed",
+      "1 can black beans, drained and rinsed",
+      "2 cans diced tomatoes",
+      "2 tbsp chili powder",
+      "1 tsp ground cumin",
+      "1/2 tsp salt",
+      "1/4 tsp black pepper"
+    ],
+    "method": "1. Heat olive oil in a large pot over medium heat. Add onion, garlic, and bell peppers and cook until softened.\n2. Add zucchini, kidney beans, black beans, diced tomatoes, chili powder, cumin, salt, and pepper. Stir to combine.\n3. Bring to a simmer and let cook for 20-30 minutes, stirring occasionally.\n4. Serve hot with your favourite toppings, such as shredded cheese, sour cream, or chopped fresh herbs.",
+    "rating": 4.8
+  },
+  {
+    "id": 4,
+    "chef_id":102,
+    "recipeName": "Beef and Broccoli Stir-Fry",
+    "recipeImg": "https://i.ibb.co/2cRnYN6/bon-vivant-qom5-MPOER-I-unsplash-1.jpg",
+    "ingredients": [
+      "1 lb beef sirloin, thinly sliced",
+      "3 cups broccoli florets",
+      "1 red bell pepper, sliced",
+      "2 cloves garlic, minced",
+      "2 tbsp soy sauce",
+      "2 tbsp oyster sauce",
+      "1 tbsp cornstarch",
+      "1 tbsp vegetable oil",
+      "1/2 tsp salt",
+      "1/4 tsp black pepper"
+    ],
+    "method": "1. In a small bowl, whisk together soy sauce, oyster sauce, cornstarch, salt, and pepper.\n2. Heat vegetable oil in a wok or large pan over high heat. Add beef and garlic and stir-fry for 2-3 minutes.\n3. Add broccoli and red bell pepper and stir-fry for another 2-3 minutes.\n4. Add the sauce mixture and stir until the sauce thickens and coats the beef and vegetables.\n5. Serve hot over rice.",
+"rating": 4.4
+},
+{
+"id": 5,
+"chef_id":102,
+"recipeName": "Creamy Mushroom Risotto",
+"recipeImg": "https://i.ibb.co/vsW27St/marika-sartori-ZD-CEnh-S630-unsplash.jpg",
+"ingredients": [
+"1 cup Arborio rice",
+"1/2 onion, chopped",
+"2 cloves garlic, minced",
+"3 cups chicken or vegetable broth",
+"1/2 cup white wine",
+"1 cup sliced mushrooms",
+"1/4 cup grated Parmesan cheese",
+"2 tbsp butter",
+"2 tbsp olive oil",
+"1/2 tsp salt",
+"1/4 tsp black pepper"
+],
+"method": "1. Heat olive oil in a large pan over medium heat. Add onion and garlic and cook until softened.\n2. Add rice and stir to coat with oil. Add wine and cook until it has evaporated.\n3. Add 1/2 cup broth and stir constantly until the broth is absorbed. Repeat with remaining broth, 1/2 cup at a time.\n4. Add mushrooms and cook until they release their moisture and are tender.\n5. Stir in Parmesan cheese and butter until melted and creamy.\n6. Serve hot, garnished with additional Parmesan cheese and chopped fresh herbs, if desired.",
+"rating": 4.6
+},
+{
+"id": 6,
+"chef_id":102,
+"recipeName": "Grilled Lemon Herb Chicken",
+"recipeImg": "https://i.ibb.co/HCprNDC/alexandra-kusper-T8kr3-JLALFU-unsplash.jpg",
+"ingredients": [
+"4 boneless, skinless chicken breasts",
+"1 lemon, juiced and zested",
+"2 cloves garlic, minced",
+"1 tbsp chopped fresh thyme",
+"1 tbsp chopped fresh rosemary",
+"1 tbsp olive oil",
+"1/2 tsp salt",
+"1/4 tsp black pepper"
+],
+"method": "1. Preheat grill to medium-high heat.\n2. Mix lemon juice, lemon zest, garlic, thyme, rosemary, olive oil, salt, and pepper together in a small bowl.\n3. Brush chicken with the lemon herb mixture.\n4. Grill chicken for 6-8 minutes per side, or until cooked through.\n5. Serve hot with your favourite sides.",
+"rating": 4.3
+},
+{
+"id": 7,
+"chef_id":103,
+"recipeName": "Fish Tacos",
+"recipeImg": "https://i.ibb.co/mNRC7gX/miti-CQW6ijeq-Inw-unsplash.jpg",
+"ingredients": [
+"1 lb white fish fillets ",
+"1/2 head green cabbage, thinly sliced",
+"1/4 cup chopped fresh cilantro",
+"1 avocado, sliced",
+"8 small corn tortillas",
+"1 lime, cut into wedges",
+"1 tbsp olive oil",
+"1 tbsp chili powder",
+"1/2 tsp ground cumin",
+"1/2 tsp salt",
+"1/4 tsp black pepper"
+],
+"method": "1. Preheat oven to 200°C.\n2. Toss fish with olive oil, chili powder, cumin, salt, and pepper. Place on a baking sheet and bake for 10-12 minutes, or until cooked through.\n3 . Warm tortillas in the oven or on a grill for a few minutes.\n4. Assemble tacos by placing fish, cabbage, cilantro, and avocado on top of each tortilla.\n5. Squeeze lime wedges over the top and serve immediately.",
+"rating": 4.7
+},
+{
+"id": 8,
+"chef_id":103,
+"recipeName": "Pesto Pasta Salad",
+"recipeImg": "https://i.ibb.co/wQLpLkT/eiliv-aceron-Q-5e-UQw-Eqm0-unsplash.jpg",
+"ingredients": [
+"12 oz fusilli pasta",
+"1 cup cherry tomatoes, halved",
+"1/2 cup sliced black olives",
+"1/2 cup crumbled feta cheese",
+"1/4 cup pesto",
+"1/4 cup olive oil",
+"2 tbsp balsamic vinegar",
+"1/2 tsp salt",
+"1/4 tsp black pepper"
+],
+"method": "1. Cook pasta according to package directions. Drain and rinse under cold water.\n2. In a large bowl, mix together cooked pasta, cherry tomatoes, black olives, and feta cheese.\n3. In a small bowl, whisk together pesto, olive oil, balsamic vinegar, salt, and pepper.\n4. Pour dressing over pasta salad and toss to combine.\n5. Serve chilled or at room temperature.",
+"rating": 4.5
+},
+{
+"id": 9,
+"chef_id":103,
+"recipeName": "Beef Stew",
+"recipeImg": "https://i.ibb.co/smXBNC1/food-photographer-jennifer-pallian-8p-Ujh-Bm4c-Lw-unsplash.jpg",
+"ingredients": [
+"2 lbs beef stew meat",
+"2 tbsp olive oil",
+"1 onion, chopped",
+"2 cloves garlic, minced",
+"4 cups beef broth",
+"2 cups diced potatoes",
+"1 cup sliced carrots",
+"1 cup sliced celery",
+"1 tsp dried thyme",
+"1 bay leaf",
+"1/2 tsp salt",
+"1/4 tsp black pepper"
+],
+"method": "1. Heat olive oil in a large pot over medium-high heat. Add beef and cook until browned on all sides.\n2. Add onion and garlic and cook until softened.\n3. Add beef broth, potatoes, carrots, celery, thyme, bay leaf, salt, and pepper.\n4. Bring to a boil, then reduce heat and simmer for 1-2 hours, or until beef is tender and vegetables are cooked through.\n5. Serve hot, garnished with chopped fresh herbs, if desired.",
+"rating": 4.2
+},
+{
+"id": 10,
+"chef_id":104,
+"recipeName": "Shrimp Scampi",
+"recipeImg": "https://i.ibb.co/9gDvzdw/anh-nguyen-kc-A-c3f-3-FE-unsplash-1.jpg",
+"ingredients": [
+"1 lb spaghetti",
+"1 lb large shrimp, peeled and deveined",
+"4 cloves garlic, minced",
+"1/4 cup butter",
+"1/4 cup olive oil",
+"1/4 cup chopped fresh parsley",
+"1/2 tsp red pepper flakes",
+"1/2 tsp salt",
+"1/4 tsp black pepper",
+"1 lemon, juiced and zested"
+],
+"method": "1. Cook spaghetti according to package directions. Drain and set aside.\n2. In a large pan, melt butter and olive oil over medium-high heat. Add garlic and red pepper flakes and cook until fragrant.\n3. Add shrimp and cook until pink and opaque, about 2-3 minutes per side.\n4. Stir in lemon juice and zest.\n5. Add spaghetti to the pan and toss to coat with the shrimp and sauce.\n6. Serve hot, garnished with chopped fresh parsley and additional lemon wedges, if desired.",
+"rating": 4.8
+},
+{
+"id": 11,
+"chef_id":104,
+"recipeName": "Chicken Tikka Masala",
+"recipeImg": "https://i.ibb.co/h8kWMr8/engin-akyurt-Jrvcg9-My0-B4-unsplash.jpg",
+"ingredients": [
+"2 lbs boneless, skinless chicken breasts",
+"1 cup plain yogurt",
+"4 cloves garlic, minced",
+"1 tbsp grated fresh ginger",
+"2 tsp ground cumin",
+"2 tsp paprika",
+"1 tsp ground coriander",
+"1/2 tsp cayenne pepper",
+"1/2 tsp salt",
+"1/4 tsp black pepper",
+"2 tbsp butter",
+"1 onion, diced",
+"1 1/2 cups tomato sauce",
+"1 cup heavy cream",
+"1/4 cup chopped fresh cilantro"
+],
+"method": "1. In a large bowl, whisk together yogurt, garlic, ginger, cumin, paprika, coriander, cayenne pepper, salt, and black pepper.\n2. Add chicken pieces and toss to coat. Cover and refrigerate for at least 1 hour, or overnight.\n3. Preheat broiler to high. Arrange chicken on a baking sheet and broil until browned and cooked through, about 10 minutes.\n4. In a large skillet, melt butter over medium heat. Add onion and cook until softened.\n5. Stir in tomato sauce and heavy cream. Add chicken and bring to a simmer.\n6. Simmer for 10-15 minutes, or until sauce has thickened and chicken is fully cooked.\n7. Serve hot, garnished with chopped fresh cilantro and accompanied by rice and/or naan bread.",
+"rating": 4.9
+},
+{
+"id": 12,
+"chef_id":104,
+"recipeName": "Roasted Vegetable Salad",
+"recipeImg": "https://i.ibb.co/tscDJFB/kristine-tumanyan-HAFl7-HN3s-Sw-unsplash.jpg",
+"ingredients": [
+"1 lb mixed vegetables, such as zucchini",
+"3 tbsp olive oil",
+"1 tsp salt",
+"1/4 tsp black pepper",
+"4 cups mixed greens",
+"1/4 cup crumbled goat cheese",
+"2 tbsp balsamic vinegar",
+"1 tbsp honey",
+"1 tbsp dijon mustard",
+"1 clove garlic, minced"
+],
+"method": "1. Preheat oven to 400°F. Toss vegetables with 2 tablespoons olive oil, salt, and black pepper. Spread out on a baking sheet and roast for 20-30 minutes, or until tender and caramelized.\n2. In a small bowl, whisk together remaining 1 tablespoon olive oil, balsamic vinegar, honey, dijon mustard, and garlic.\n3. Divide mixed greens among four plates. Top with roasted vegetables and crumbled goat cheese.\n4. Drizzle dressing over salad and serve immediately.",
+"rating": 4.3
+},
+{
+"id": 13,
+"chef_id":105,
+"recipeName": "Sesame Noodles",
+"recipeImg": "https://i.ibb.co/CK9PPSR/louis-hansel-7ea-Pk7fhy-Us-unsplash.jpg",
+"ingredients": [
+"12 oz spaghetti",
+"1/4 cup soy sauce",
+"2 tbsp rice vinegar",
+"1 tbsp sesame oil",
+"1 tbsp honey",
+"2 cloves garlic, minced",
+"1/4 cup chopped scallions",
+"1/4 cup chopped fresh cilantro",
+"1/4 cup chopped peanuts",
+"1 tbsp toasted sesame seeds"
+],
+"method": "1. Cook spaghetti according to package directions. Drain and rinse under cold water.\n2. In a large bowl, whisk together soy sauce, rice vinegar, sesame oil, honey, and garlic.\n3 . Add cooked spaghetti, scallions, cilantro, and peanuts. Toss to coat.\n4. Divide noodles among four bowls. Sprinkle with toasted sesame seeds and serve.",
+"rating": 4.5
+},
+{
+"id": 14,
+"chef_id":105,
+"recipeName": "Beef Stroganoff",
+"recipeImg": "https://i.ibb.co/cKBPytf/kristine-tumanyan-E-b-GSb-Xb12-I-unsplash.jpg",
+"ingredients": [
+"1 lb sirloin steak, thinly sliced",
+"1 onion, diced",
+"2 cloves garlic, minced",
+"8 oz sliced mushrooms",
+"2 tbsp butter",
+"2 tbsp flour",
+"2 cups beef broth",
+"1/2 cup sour cream",
+"1 tbsp dijon mustard",
+"1 tbsp worcestershire sauce",
+"1/4 cup chopped fresh parsley",
+"salt and pepper, to taste",
+"12 oz egg noodles, cooked and drained"
+],
+"method": "1. In a large skillet, cook steak over medium-high heat until browned. Remove from skillet and set aside.\n2. Add onion, garlic, and mushrooms to the skillet. Cook until tender.\n3. Add butter and flour to the skillet. Cook, stirring constantly, for 1-2 minutes.\n4. Slowly add beef broth, whisking constantly to avoid lumps. Bring to a boil, then reduce heat and simmer for 10-15 minutes, or until sauce has thickened.\n5. Stir in sour cream, dijon mustard, worcestershire sauce, parsley, salt, and pepper. Add cooked steak and heat through.\n6. Serve hot, over cooked egg noodles.",
+"rating": 4.7
+},
+{
+"id": 15,
+"chef_id":105,
+"recipeName": "Lemon Garlic Shrimp",
+"recipeImg": "https://i.ibb.co/gSHqPGg/louis-hansel-2hm-DY2-HZA8-U-unsplash.jpg",
+"ingredients": [
+"1 lb large shrimp, peeled and deveined",
+"3 tbsp olive oil",
+"4 cloves garlic, minced",
+"1 lemon, juiced and zested",
+"1/2 tsp red pepper flakes",
+"salt and pepper, to taste",
+"1/4 cup chopped fresh parsley"
+],
+"method": "1. In a large bowl, whisk together olive oil, garlic, lemon juice and zest, red pepper flakes, salt, and black pepper.\n2. Add shrimp and toss to coat. Cover and refrigerate for at least 30 minutes, or up to 4 hours.\n3. Preheat grill to medium-high. Thread shrimp onto skewers.\n4. Grill shrimp for 2-3 minutes per side, or until pink and cooked through.\n5. Serve hot, garnished with chopped fresh parsley.",
+"rating": 4.8
+},
+{
+"id": 16,
+"chef_id":106,
+"recipeName": "Mushroom Risotto",
+"recipeImg": "https://i.ibb.co/gSHqPGg/louis-hansel-2hm-DY2-HZA8-U-unsplash.jpg",
+"ingredients": [
+"6 cups chicken or vegetable broth",
+"1 tbsp olive oil",
+"1 onion, diced",
+"2 cloves garlic, minced",
+"2 cups arborio rice",
+"1/2 cup dry white wine",
+"8 oz mushrooms, sliced",
+"1/2 cup grated parmesan cheese",
+"2 tbsp butter",
+"salt and pepper, to taste",
+"1/4 cup chopped fresh parsley"
+],
+"method": "1. In a medium saucepan, heat broth over low heat.\n2. In a large saucepan or dutch oven, heat olive oil over medium heat. Add onion and garlic and cook until softened.\n3. Add rice and stir to coat with oil. Cook for 1-2 minutes, or until rice is lightly toasted.\n Add wine and stir until absorbed. Add 1 cup of hot broth and stir until absorbed.\n5. Continue adding broth, 1 cup at a time, stirring until each addition is absorbed before adding the next. Stir frequently.\n6. After about 20-25 minutes, when the rice is tender but still firm to the bite, add the mushrooms and cook for another 5 minutes, or until the mushrooms are tender.\n7. Remove from heat and stir in parmesan cheese, butter, salt, and pepper. Cover and let stand for 2-3 minutes.\n8. Sprinkle with chopped fresh parsley and serve hot.",
+"rating": 4.6
+},
+{
+"id": 17,
+"chef_id":106,
+"recipeName": "Roasted Chicken and Vegetables",
+"recipeImg": "https://i.ibb.co/NrnH5Yn/louis-hansel-DEYK2ec-XLUg-unsplash.jpg",
+"ingredients": [
+"1 whole chicken, about 4-5 lbs",
+"1 lb baby potatoes",
+"1 lb carrots, peeled and cut into chunks",
+"1 onion, cut into wedges",
+"4 cloves garlic, minced",
+"2 tbsp olive oil",
+"1 tbsp dried thyme",
+"salt and pepper, to taste",
+"1 lemon, sliced",
+"2 tbsp chopped fresh parsley"
+],
+"method": "1. Preheat oven to 425°F.\n2. In a large bowl, toss together chicken, potatoes, carrots, onion, garlic, olive oil, thyme, salt, and pepper until well coated.\n3. Place chicken and vegetables in a roasting pan. Arrange lemon slices over the top of the chicken.\n4. Roast for 50-60 minutes, or until chicken is cooked through and vegetables are tender.\n5. Let chicken rest for 5-10 minutes before carving.\n6. Garnish with chopped fresh parsley and serve hot.",
+"rating": 4.9
+},
+{
+"id": 18,
+"chef_id":106,
+"recipeName": "Pad Thai",
+"recipeImg": "https://i.ibb.co/r6c2jTW/engin-akyurt-Biuv-I-G74g-I-unsplash.jpg",
+"ingredients": [
+"8 oz rice noodles",
+"2 tbsp vegetable oil",
+"1 onion, chopped",
+"2 cloves garlic, minced",
+"1 red bell pepper, thinly sliced",
+"1 cup bean sprouts",
+"1/4 cup chopped peanuts",
+"2 eggs, lightly beaten",
+"1/4 cup fish sauce",
+"1/4 cup sugar",
+"2 tbsp rice vinegar",
+"1 tbsp soy sauce",
+"1 lime, juiced",
+"2 tbsp chopped fresh cilantro",
+"salt and pepper, to taste"
+],
+"method": "1. Cook noodles according to package directions. Drain and set aside.\n2. In a wok or large skillet, heat vegetable oil over medium-high heat. Add onion and garlic and stir-fry for 1-2 minutes, or until softened.\n3. Add red bell pepper, bean sprouts, and peanuts. Stir-fry for another 1-2 minutes.\n4. Push vegetables to the sides of the pan. Pour eggs into the center and cook, stirring, until scrambled.\n5. Add cooked noodles to the pan.\n6. In a small bowl, whisk together fish sauce, sugar, rice vinegar, soy sauce, and lime juice. Pour over noodles and stir to combine.\n7. Add cooked shrimp or chicken, if desired.\n8. Serve hot, garnished with chopped fresh cilantro.",
+"rating": 4.7
+}
+]
+

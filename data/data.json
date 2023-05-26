@@ -1,0 +1,59 @@
+[
+    {
+   "id": 101,
+   "chef_picture": "https://i.ibb.co/JBVj9Gr/custom-resized-02cfdada-684e-4600-8454-125de2871a6a.jpg",
+   "chef_name": "Alice Smith",
+   "description": "Alice Smith specializes in authentic Mexican cuisine with a modern twist. His dishes showcase the vibrant flavors and colors of Mexico's rich culinary traditions.",
+   "years_of_experience": 10,
+   "number_of_recipes": 50,
+   "likes": 1000
+},
+{
+   "id": 102,
+   "chef_picture": "https://i.ibb.co/51RT6d1/custom-resized-172b388f-7f46-4924-9cbb-d243de911230.jpg",
+   "chef_name": "Bob Johnson",
+   "description": "Bob Johnson combines her Vietnamese heritage with modern cooking techniques to create fresh, flavorful dishes that blend tradition and innovation.",
+   "years_of_experience": 7,
+   "number_of_recipes": 30,
+   "likes": 500
+},
+{
+   "id": 103,
+   "chef_picture": "https://i.ibb.co/kxm3Vn8/custom-resized-850c2143-4967-4827-8df6-8112478f218c.jpg",
+   "chef_name": "Cathy Lee",
+   "description": "Cathy Lee is a master of traditional Mexican cuisine, specializing in authentic dishes passed down through generations.",
+   "years_of_experience": 15,
+   "number_of_recipes": 80,
+   "likes": 2000
+},
+{
+   "id": 104,
+   "chef_picture": "https://i.ibb.co/wJ6t9wK/custom-resized-c24dbbec-aca9-4640-9419-05610653b663.jpg",
+   "chef_name": "David Chen",
+   "description": "David Chen specializes in authentic Mexican cuisine with a modern twist. His dishes showcase the vibrant flavors and colors of Mexico's rich culinary traditions.",
+   "years_of_experience": 12,
+   "number_of_recipes": 60,
+   "likes": 1500
+},
+{
+   "id": 105,
+   "chef_picture": "https://i.ibb.co/cx0whyj/custom-resized-d806f44a-ecc5-4c04-9dd5-536076f319c3.jpg",
+   "chef_name": "Emily Kim",
+   "description": "Emily Kim combines her Vietnamese heritage with modern cooking techniques to create fresh, flavorful dishes that blend tradition and innovation.",
+   "years_of_experience": 5,
+   "number_of_recipes": 20,
+   "likes": 300
+},
+{
+   "id": 106,
+   "chef_picture": "https://i.ibb.co/37pnX1V/custom-resized-f101ce57-db5e-497b-9b97-799dab514b23.png",
+   "chef_name": "Jhon Mishel",
+   "description": "Frank Rodriguez is a master of traditional Mexican cuisine, specializing in authentic dishes passed down through generations.",
+   "years_of_experience": 20,
+   "number_of_recipes": 100,
+   "likes": 5000
+}
+
+]
+
+
